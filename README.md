@@ -1,1 +1,13 @@
-# discord-whitelist-bot2
+{
+  "name": "discord-whitelist-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot and Whitelist API for Roblox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2"
+  }
+}
